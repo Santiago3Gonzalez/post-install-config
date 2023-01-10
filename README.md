@@ -13,7 +13,7 @@
 <h2> Operating Systems Used </h2>
 - Windows 10
 
-<h2> Configuring my osTicket </h2>
+<h2> Configuring My osTicket</h2>
 
 - Configure Roles
 - Configure Departments
@@ -46,7 +46,7 @@ Now I go to departments and create a new departmenrt "System Admins"
 <img src="https://i.imgur.com/PxFo1iX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now in the agents tab, I go over to teams to create "Level 2 Support".
+Now in the agents tab, I go over to teams to create "Level 2 Support"
 </p>
 <br />
 
@@ -78,6 +78,15 @@ Now I click the agent panel to get out of Admin, and then I click the users tab 
 <img src="https://i.imgur.com/cfxhFgi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now I go back into the admin panel top right, then I go to manage and SLA. I creat my own SLA's with their own severity levels.
+Now I go back into the admin panel top right, then I go to manage and SLA. I creat my own SLA's with their own severity levels
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ZwyWV3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From Manage I go to help topics and create all help topics highlighted
+</p>
+<br />
+
